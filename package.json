@@ -15,7 +15,7 @@
 		"check": "astro check"
 	},
 
-  "packageManager": "pnpm@10.4.1"
+  "packageManager": "pnpm@10.4.1",
 
 	"dependencies": {
 		"@astrojs/markdown-remark": "^6.0.2",
